@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  iDine
 //
-//  Created by tahani alrashidi on 8/5/20.
+//  Created by Aldana Al-Rashidi on 8/5/20.
 //  Copyright © 2020 Aldana Al-Rashidi. All rights reserved.
 //
 
